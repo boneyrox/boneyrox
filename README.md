@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/boneyupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/boneyupadhyay?logo=twitter&style=for-the-badge" alt="boneyupadhyay" /></a> </p>
 
-- 🔭 I’m currently working in **Kapitalwise Inc.**
+- 🔭 I’m currently working in **Sirion Labs**. Past **Kapitalwise Inc.**
 
 - 🌱 I’m currently learning **Web3**
 
