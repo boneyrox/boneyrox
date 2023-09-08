@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working in **Sirion Labs**. Past **Kapitalwise Inc.**
 
-- 🌱 I’m currently learning **Web3**
-
 - 👨‍💻 All of my projects are available at [https://boneyy.vercel.app/](https://boneyy.vercel.app/)
 
 - 💬 Ask me about **React, Javascript**
