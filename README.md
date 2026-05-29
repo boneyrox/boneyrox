@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boni Upadhyay</h1>
+<h1 align="center">Hi 👋, I'm Boni Upaddhyay</h1>
 <h3 align="center">Crafting aesthetically delightful and high-performance webapps.</h3>
 
 
